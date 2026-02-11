@@ -122,7 +122,7 @@ export default function VotePage() {
               Do not see your favorite fictional software? Let us know what you would love to see recreated.
             </p>
             <form
-              action="https://formspree.io/f/xplaceholder"
+              action="https://formspree.io/f/xnjbjvng"
               method="POST"
               className="space-y-4"
             >

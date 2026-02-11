@@ -32,7 +32,7 @@ export default function ContactPage() {
         <FadeIn delay={0.1}>
           <div className="bg-card rounded-xl border border-border p-8">
             <form
-              action="https://formspree.io/f/xplaceholder"
+              action="https://formspree.io/f/xnjbjvng"
               method="POST"
               className="space-y-6"
             >
